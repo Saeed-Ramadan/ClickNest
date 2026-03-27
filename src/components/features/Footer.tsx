@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
           <div className="md:col-span-1">
             <div className="flex items-center gap-3 mb-6">
-              <img src="/src/assets/logo.png" alt="ClickNest Logo" className="h-30 w-auto" />
+              <img src="/logo.png" alt="ClickNest Logo" className="h-30 w-auto" />
 
             </div>
             <p className="text-text-muted leading-relaxed uppercase tracking-widest text-[10px] mb-8">

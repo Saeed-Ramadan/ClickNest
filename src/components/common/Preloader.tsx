@@ -44,7 +44,7 @@ const Preloader = () => {
         >
           <div className="relative p-4">
              <img 
-               src="/src/assets/logo.png" 
+               src="/logo.png" 
                alt="ClickNest Logo" 
                className={`h-32 md:h-40 w-auto object-contain transition-all duration-500 ${theme === 'dark' ? 'brightness-110 contrast-125' : ''}`}
              />

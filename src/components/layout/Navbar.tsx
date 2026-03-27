@@ -25,7 +25,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link to="/" className="shrink-0 flex items-center gap-3">
-            <img src="/src/assets/logo.png" alt="ClickNest Logo" className="h-20 w-auto" />
+            <img src="/logo.png" alt="ClickNest Logo" className="h-20 w-auto" />
           </Link>
 
           {/* Desktop Nav */}
