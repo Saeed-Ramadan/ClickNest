@@ -101,20 +101,26 @@
     }
   },
   "pricing": {
-    "title": "Our Pricing Plans",
-    "starter": "Starter",
-    "professional": "Professional",
-    "enterprise": "Enterprise",
+    "title": "Competitive Pricing Plans",
+    "package1": "Basic Package",
+    "package2": "Advanced Package",
     "popular": "Most Popular",
-    "cta": "Get Started",
+    "cta": "Start Now",
     "features": {
-      "strategy": "Basic Strategy",
-      "ads": "Ad Management",
-      "report": "Weekly Reports",
-      "custom": "Custom Funnels",
-      "priority": "Priority Support"
+      "pageManagement": "Page Management",
+      "designs15": "15 Content Designs",
+      "designs30": "30 Content Designs",
+      "strategy": "Strategic Plan",
+      "identity": "Visual Identity",
+      "analysis": "Page Analysis",
+      "funnelPlan": "Funnel Plan",
+      "adsExclusion": "Excluding Sponsored Ads"
     },
-    "perMonth": "/mo"
+    "payment": {
+      "terms": "Payment Plan: 50% upfront, 50% after 15 days",
+      "adsPolicy": "Note: Ad budget must be paid before launching campaigns"
+    },
+    "currency": "EGP"
   },
   "contact": {
     "title": "Let's Grow Your Business",
